@@ -1,0 +1,22 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "Testing Practice per The Odin Project curriculum",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codydegen/testing_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codydegen/testing_practice/issues"
+  },
+  "homepage": "https://github.com/codydegen/testing_practice#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
